@@ -1,12 +1,21 @@
-22300304 / 박유찬
-Assignment 02 수행 내용:html에서 중요한 함수들을 배우며 친숙해짐
-각 페이지 설명 및 URL
-https://2026oss-22300304-2.vercel.app/nostyle.html
-https://2026oss-22300304-2.vercel.app/style1.html
-https://2026oss-22300304-2.vercel.app/style2.html
-https://2026oss-22300304-2.vercel.app/bootstrap_ex.html
-https://2026oss-22300304-2.vercel.app
-Vercel Deploy URL:https://github.com/uchanpark0206/2026oss_22300304-2
+ 22300304 / 박유찬
+ 
+ Assignment 02 수행 내용:html에서 중요한 함수들을 배우며 친숙해짐
+ 
+ 
+ 각 페이지 설명 및 URL
+
+ https://2026oss-22300304-2.vercel.app/nostyle.html
+
+ https://2026oss-22300304-2.vercel.app/style1.html
+
+ https://2026oss-22300304-2.vercel.app/style2.html
+
+ https://2026oss-22300304-2.vercel.app/bootstrap_ex.html
+
+ https://2026oss-22300304-2.vercel.app
+
+ Vercel Deploy URL:https://github.com/uchanpark0206/2026oss_22300304-2
 
 Key Learning: 이번 주 배운 핵심 내용 3가지
 1) 기본 태그
@@ -15,7 +24,7 @@ Key Learning: 이번 주 배운 핵심 내용 3가지
 <head>문서 정보등을 정의하는 곳
 <body>실제 브라우져에 표시되는 콘텐츠
 
-2)css와 html의 차이
+2) css와 html의 차이
 기본적인 콘텐츠는 html이고 색상 글꼴 등 디자인을 담당하는게 css다
 
 3) html은 트리구조를 갖는다.
@@ -23,10 +32,11 @@ Key Learning: 이번 주 배운 핵심 내용 3가지
 
 HTML vs CSS: 
 html은 아이디어와 기본적인 위치를 정리하는 뼈대역할이고 css는 스타일에 중점적으로 사용됨
+
 Bootstrap 사용법 : 
 버튼이라던지 이런 장치를 만드는데 사용
 
-Problem & Solution: 실습 중 발생한 문제와 해결 과정 1가지
+Problem & Solution(실습 중 발생한 문제와 해결 과정 1가지): 
 처음에 웹을 만들었는데 vscode에서는 웹이 켜지는데 실제 웹에서는 안켜짐 이를 해결하기위해 ai의 도움으로 해결함
 
 AI Usage: AI를 어떤 부분에 활용했으며, 생성된 코드를 어떻게 확인/수정했는지 작성
