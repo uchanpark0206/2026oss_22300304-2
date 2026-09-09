@@ -5,15 +5,15 @@
  
  각 페이지 설명 및 URL
 
- https://2026oss-22300304-2.vercel.app/nostyle.html
+nostyle.html: https://2026oss-22300304-2.vercel.app/nostyle.html(아무css없이 표현한 웹)
 
- https://2026oss-22300304-2.vercel.app/style1.html
+style1.html: https://2026oss-22300304-2.vercel.app/style1.html(시트 1을 사용해 표현한 웹)
 
- https://2026oss-22300304-2.vercel.app/style2.html
+ style2.html:https://2026oss-22300304-2.vercel.app/style2.html(시트 2를 사용해 표현한 웹)
 
- https://2026oss-22300304-2.vercel.app/bootstrap_ex.html
+ bootstrap_ex.html:https://2026oss-22300304-2.vercel.app/bootstrap_ex.html(sign -in를 사용해 표현한 웹)
 
- https://2026oss-22300304-2.vercel.app
+ inndesx.html:https://2026oss-22300304-2.vercel.app(위의 사이트들의 하이퍼링크를 만들어 놓은 웹)
 
  Vercel Deploy URL:https://github.com/uchanpark0206/2026oss_22300304-2
 
@@ -25,7 +25,7 @@ Key Learning: 이번 주 배운 핵심 내용 3가지
 <body>실제 브라우져에 표시되는 콘텐츠
 
 2) css와 html의 차이
-기본적인 콘텐츠는 html이고 색상 글꼴 등 디자인을 담당하는게 css다
+기본적인 콘텐츠는 를 멓는 골격을 담앙하는것이 html이고 색상 글꼴 등 디자인을 담당하는게 css다
 
 3) html은 트리구조를 갖는다.
 
