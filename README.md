@@ -11,7 +11,6 @@ style1.html: https://2026oss-22300304-2.vercel.app/style1.html (시트 1을 사�
 
  style2.html:https://2026oss-22300304-2.vercel.app/style2.html (시트 2를 사용해 표현한 웹)
 
- bootstrap_ex.html:https://2026oss-22300304-2.vercel.app/bootstrap_ex.html (sign -in를 사용해 표현한 웹)
 
  inndesx.html:https://2026oss-22300304-2.vercel.app (위의 사이트들의 하이퍼링크를 만들어 놓은 웹)
 
